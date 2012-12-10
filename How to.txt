@@ -17,6 +17,10 @@ Membuat Repository Baru
 	git remote add <origiin> https://github.com/bgurusinga/Oprek.git
 	git push -u origin master
 6. Push (Upload) ke repository remote
+	git add .
+	git commit -m "kedua"
+	git push -u
+7. untuk agar bisa orang lain bisa merubah (push)
 
 
 
