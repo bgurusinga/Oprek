@@ -1,0 +1,19 @@
+Membuat Repository Baru
+
+1. Membuat folder kosong
+2. Inisialisasi Repository GIT
+	comprompt "git init" pada folder tsb.
+3. buat Ignore File
+	file yang berisi hal hal yang tidak ingin kita simpan ke dalam repository
+	contoh, file .class
+	buat file ".gitignore" via command prompt
+4. (Commit) Simpan repository local
+	git status -> melihat status sinkronisasi
+	git add .-> menambah file yang akan di sinkronisasi
+	git commit -m "first commit" -> approval syncronisasi
+	git config --global user.email
+	git config --global user.name
+5. Daftarkan Repository Remote
+	git remote add <origiin> https://github.com/bgurusinga/Oprek.git
+	git push -u origin master
+6. Push (Upload) ke repository remote
