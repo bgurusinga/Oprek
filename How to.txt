@@ -21,7 +21,15 @@ Membuat Repository Baru
 	git commit -m "kedua"
 	git push -u
 7. untuk agar bisa orang lain bisa merubah (push)
+	git clone
+	menambahkan friend/participant pada website
+	rubah file
+	jalankan perintah push.
+	cara menarik file hasil updatean temen "git pull"
+8. untuk revert
+	
+	git revert id push
 
-
+	 
 
 # add for test clone
