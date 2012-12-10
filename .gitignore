@@ -2,3 +2,11 @@
 
 *.class
 *.jar
+
+target
+*.idea
+*.inl
+
+.project
+.setting
+.classpath
